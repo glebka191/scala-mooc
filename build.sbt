@@ -2,11 +2,11 @@ import _root_.sbt.Keys._
 import wartremover.Wart
 import wartremover.Wart._
 
-name := "scala-mooc"
+name := "scala-mooc_hm3"
 
 version := "0.1"
 
-scalaVersion := "2.13.3"
+scalaVersion := "2.13.2"
 
 scalacOptions := List(
   "-encoding",
